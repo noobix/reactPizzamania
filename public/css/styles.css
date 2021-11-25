@@ -1,0 +1,26 @@
+.image-height{
+	height: 500px;
+}
+.about-pizza{
+	margin-top: 10px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+.nav-text .navbar-nav .nav-link{
+    color: white !important;
+}
+.pizza-types{
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.navbar-light .navbar-brand {
+    color: #f8f9fa;
+}
+.footer{
+	background-color: grey;
+	padding: 5px 0px 5px 0px;
+	color: white;
+}
+.about-img{
+	height: 500px;
+}
